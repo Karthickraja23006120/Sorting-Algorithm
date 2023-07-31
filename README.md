@@ -36,7 +36,9 @@ selection_sort(list_nums)
 print(list_nums)
 ```
 ii)	#Insertion Sort
-```
+```'
+Developed by:Karthick Raja K
+RegisterNumber: 23006120
 def insertion_sort(nums):
     for i in range(1,len(nums)):
         item=nums[i]
@@ -56,3 +58,4 @@ print(nums)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
+git config user.name "23006120"
